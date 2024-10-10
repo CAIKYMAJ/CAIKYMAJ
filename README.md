@@ -2,6 +2,14 @@
 
 ###
 
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<h5 align="left">Formação:<br>.📓 Análise e Desenvolvimento de Sistemas (Cursando - 6º Período);<br><br>Habilidades em Front-End:<br>. HTML, CSS e JS;<br>. Next.js e React;<br>. Tailwind CSS;<br><br>Habilidades em Back-End:<br>. Java e Pyhton;<br><br>Habilidades em Banco de Dados:<br>. MySQL, Postgres, Oracle e Microsoft SQL;<br>. Consultar, Inserir, Ler e Deletar;</h5>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CAIKYMAJ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CAIKYMAJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=false" height="150" alt="languages graph"  />
@@ -48,7 +56,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/CAIKYMAJ/CAIKYMAJ/output/snake.svg" alt="Snake animation" />
-
-###
