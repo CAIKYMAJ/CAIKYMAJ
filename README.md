@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">Formação:<br>.📓 Análise e Desenvolvimento de Sistemas (Cursando - 6º Período);<br><br>Habilidades em Front-End:<br>. HTML, CSS e JS;<br>. Next.js e React;<br>. Tailwind CSS;<br><br>Habilidades em Back-End:<br>. Java e Pyhton;<br><br>Habilidades em Banco de Dados:<br>. MySQL, Postgres, Oracle e Microsoft SQL;<br>. Consultar, Inserir, Ler e Deletar;</h5>
+<h5 align="left">Formação:<br>.📓 Análise e Desenvolvimento de Sistemas;<br><br>Habilidades em Front-End:<br>. HTML, CSS e JS;<br>. Next.js e React;<br>. Tailwind CSS;<br><br>Habilidades em Back-End:<br>. Java e Pyhton;<br><br>Habilidades em Banco de Dados:<br>. MySQL, Postgres, Oracle e Microsoft SQL;<br>. Consultar, Inserir, Ler e Deletar;</h5>
 
 ###
 
